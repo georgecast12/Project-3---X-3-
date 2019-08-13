@@ -2,4 +2,4 @@
 Project 3 
 
 
-Augmented Reality multiplayer 300 player racing RPG shooter
+Goal: MVP of an eCommerce app for Boat Experiences
